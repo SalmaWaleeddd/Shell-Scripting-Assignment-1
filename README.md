@@ -1,5 +1,3 @@
-# Shell-Scripting-Assignment-1
-
 # Shell Scripting Assignment 1 - JDK Installation
 
 Automated script to install Oracle JDK for the `pet-clinic` user on Ubuntu systems.
