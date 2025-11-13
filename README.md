@@ -14,4 +14,4 @@ Automated script to install Oracle JDK for the `pet-clinic` user on Ubuntu syste
 ### Usage:
 ```bash
 chmod +x assign.sh
-./assign.sh
+./Assign1/assign.sh
