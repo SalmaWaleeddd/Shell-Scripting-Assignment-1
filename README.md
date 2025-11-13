@@ -5,12 +5,12 @@ Automated script to install Oracle JDK for the `pet-clinic` user on Ubuntu syste
 ## Script: `assign.sh`
 
 ### Features:
-- Creates dedicated `pet-clinic` user
+- Creates `pet-clinic` user
 - Downloads and installs Oracle JDK 25
 - Configures environment variables automatically
-- Idempotent - safe to run multiple times
+- Rerunnable - safe to run multiple times
 
 ### Usage:
 ```bash
-chmod +x install-jdk.sh
-sudo ./install-jdk.sh
+chmod +x assign.sh
+sudo ./assign.sh
