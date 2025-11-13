@@ -9,6 +9,7 @@ Automated script to install Oracle JDK for the `pet-clinic` user on Ubuntu syste
 - Downloads and installs Oracle JDK 25
 - Configures environment variables automatically
 - Rerunnable - safe to run multiple times
+- Verifies installation upon completion
 
 ### Usage:
 ```bash
