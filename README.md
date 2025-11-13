@@ -2,7 +2,7 @@
 
 Automated script to install Oracle JDK for the `pet-clinic` user on Ubuntu systems.
 
-## Script: `install-jdk.sh`
+## Script: `assign.sh`
 
 ### Features:
 - Creates dedicated `pet-clinic` user
